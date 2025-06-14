@@ -38,6 +38,14 @@
     z-index: 1000000000000000000000;
     position: fixed;
 }
+
+#logo_new{
+    width: 100px;
+    height: 68px;
+    background-color: red;
+
+}
+
 .loader {
     position: relative;
     width: 10em;
